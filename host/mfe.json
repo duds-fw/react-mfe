@@ -1,0 +1,12 @@
+{
+  "child1": {
+    "url": "http://localhost:3001/remoteEntry.js",
+    "expose": "./Widget",
+    "route": "/child1"
+  },
+  "child2": {
+    "url": "http://localhost:3002/remoteEntry.js",
+    "expose": "./Widget",
+    "route": "/child2"
+  }
+}
